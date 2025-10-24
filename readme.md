@@ -1,0 +1,1 @@
+https://algomaster.io/practice/dsa-patterns
